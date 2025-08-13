@@ -7,7 +7,7 @@ import math  # extends the list of mathematical functions
 
 def get_valid_selection():
     '''
-    This function gets prompts the user to enter a prefered selection depending on how '
+    This function prompts the user to enter a prefered selection depending on how '
     they want to purchase their property. It returns the prefered selection and ultimately
     uses that selection to handle the rest of the calculations.
     '''
